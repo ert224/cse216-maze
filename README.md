@@ -29,41 +29,27 @@ Test Instrcutions: - From the web folder run sh deploy.sh - From the backend run
 
 ### User Stories and Individual Tests
 
-<img src="userStory.jpg"
-     alt="User Story"
-     style="float: left; margin-right: 10px;" />
+![User Story](./Docs/userStory.jpg)
 
 ### System Diagram
 
-<img src="/docs/systemsDiagram.png"
-     alt="Systems Diagram"
-     style="float: left; margin-right: 10px;" />
+![Systems Diagram](./Docs/systemsDiagram.png)
 
 ### ER-Diagram
 
+![ER-Diagram](./Docs/ERDiagram.png)
 
-<img src="/docs/ERDiagram.png"
-     alt="ER-Diagram"
-     style="float: left; margin-right: 10px;" />
+### Drawing of the State Machine for the Anonymous User Persona's Interaction with the Application
 
-### Drawing of the state machine for the anonymous user personas interaction with the application
+![State Machine](./Docs/state.jpg)
 
+### Mock
 
-<img src="/docs/state.jpg"
-     alt=" state machine "
-     style="float: left; margin-right: 10px;" />
-
-
-### Mock 
-<img src="/docs/mock.JPG"
-     alt="mock"
-     style="float: left; margin-right: 10px;" />
+![Mock](./Docs/mock.JPG)
 
 ### Trello Board
 
-<img src="/docs/trello.jpg"
-     alt="Trello Board"
-     style="float: left; margin-right: 10px;" />
+![Trello Board](./Docs/trello.jpg)
 
 ### Routes:
 * POST /postidea - takes a title and idea (strings), and userid (int) and adds a new idea to the Idea table
