@@ -35,33 +35,33 @@ Test Instrcutions: - From the web folder run sh deploy.sh - From the backend run
 
 ### System Diagram
 
-<img src="systemsDiagram.png"
+<img src="/docs/systemsDiagram.png"
      alt="Systems Diagram"
      style="float: left; margin-right: 10px;" />
 
 ### ER-Diagram
 
 
-<img src="ERDiagram.png"
+<img src="/docs/ERDiagram.png"
      alt="ER-Diagram"
      style="float: left; margin-right: 10px;" />
 
 ### Drawing of the state machine for the anonymous user personas interaction with the application
 
 
-<img src="state.jpg"
+<img src="/docs/state.jpg"
      alt=" state machine "
      style="float: left; margin-right: 10px;" />
 
 
 ### Mock 
-<img src="mock.JPG"
+<img src="/docs/mock.JPG"
      alt="mock"
      style="float: left; margin-right: 10px;" />
 
 ### Trello Board
 
-<img src="trello.jpg"
+<img src="/docs/trello.jpg"
      alt="Trello Board"
      style="float: left; margin-right: 10px;" />
 
