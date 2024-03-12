@@ -29,27 +29,27 @@ Test Instrcutions: - From the web folder run sh deploy.sh - From the backend run
 
 ### User Stories and Individual Tests
 
-![User Story](./Docs/userStory.jpg)
+![User Story](./docs/userStory.jpg)
 
 ### System Diagram
 
-![Systems Diagram](./Docs/systemsDiagram.png)
+![Systems Diagram](./docs/systemsDiagram.png)
 
 ### ER-Diagram
 
-![ER-Diagram](./Docs/ERDiagram.png)
+![ER-Diagram](./docs/ERDiagram.png)
 
 ### Drawing of the State Machine for the Anonymous User Persona's Interaction with the Application
 
-![State Machine](./Docs/state.jpg)
+![State Machine](./docs/state.jpg)
 
 ### Mock
 
-![Mock](./Docs/mock.JPG)
+![Mock](./docs/mock.JPG)
 
 ### Trello Board
 
-![Trello Board](./Docs/trello.jpg)
+![Trello Board](./docs/trello.jpg)
 
 ### Routes:
 * POST /postidea - takes a title and idea (strings), and userid (int) and adds a new idea to the Idea table
